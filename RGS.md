@@ -18,7 +18,7 @@ Descitption...
 ###	Open a vector layer in QGIS: a Google Earth file (kml) or a shapefile (shp)
 
 #####Open QGIS Desktop  
-![printscreen](https://github.com/MSF-UK/TAoRM/blob/master/QGIS%20Random%20Geosampling_files/image001.png)
+![printscreen](QGIS%20Random%20Geosampling_files/image001.png)
 
 #####Open the file (kml or shp):
 -	From the “Manage Layers Toolbar” (printscreen on the left);  
