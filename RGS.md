@@ -9,6 +9,7 @@
 
 # Methods
 
+
 ##	Open the layers you want to work with
 
 ###	Open a vector layer in QGIS: a Google Earth file (kml) or a shapefile (shp)
